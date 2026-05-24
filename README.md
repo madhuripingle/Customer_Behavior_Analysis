@@ -38,10 +38,7 @@ The following tools and technologies were used in this project:
 
 * **Python**
 
-  * Pandas
-  * NumPy
-  * Matplotlib
-  * Seaborn
+  * Pandas for load csv.file
 
 * **SQL Server**
 
