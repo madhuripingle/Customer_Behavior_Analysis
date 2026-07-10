@@ -125,7 +125,6 @@ Dashboard features:
 * Dynamic visualizations
   <img width="1307" height="732" alt="customer behavior dashboard" src="https://github.com/user-attachments/assets/003b1a60-a4a4-4c33-a5b5-a90594f59e10" />
 
-
 ---
 
 ## Results
