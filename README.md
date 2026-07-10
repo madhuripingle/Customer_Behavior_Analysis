@@ -123,7 +123,8 @@ Dashboard features:
 * Interactive filters
 * Charts and KPIs
 * Dynamic visualizations
-  <img width="1307" height="732" alt="customer behavior dashboard" src="https://github.com/user-attachments/assets/003b1a60-a4a4-4c33-a5b5-a90594f59e10" />
+  <img width="1307" height="732" alt="customer behavior dashboard" src="https://github.com/user-attachments/assets/a748b4c7-cc1b-416a-b97e-d0e81aac9969" />
+
 
 ---
 
